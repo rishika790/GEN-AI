@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+pypdf
+langchain-text-splitter
+nltk
+arxiv
+langchain_openai
+langchain_huggingface
+sentence-transformers
+FAISS cpu
+groq
+fastapi
