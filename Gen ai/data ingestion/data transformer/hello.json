@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Rishika Gour",
+      "age": 21,
+      "branch": "Data Science",
+      "semester": 6,
+      "skills": ["Python", "Machine Learning", "Flask", "LangChain"],
+      "cgpa": 8.2
+    },
+    {
+      "id": 2,
+      "name": "Rahul Sharma",
+      "age": 22,
+      "branch": "Computer Science",
+      "semester": 7,
+      "skills": ["Java", "SQL", "Spring Boot"],
+      "cgpa": 7.9
+    },
+    {
+      "id": 3,
+      "name": "Priya Verma",
+      "age": 20,
+      "branch": "Data Science",
+      "semester": 5,
+      "skills": ["Python", "Pandas", "NumPy"],
+      "cgpa": 8.7
+    }
+  ],
+  "total_students": 3,
+  "college": "GWECA"
+}
