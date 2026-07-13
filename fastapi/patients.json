@@ -1,0 +1,120 @@
+{
+    "P001": {
+        "name": "Rahul Sharma",
+        "age": 45,
+        "gender": "Male",
+        "blood_group": "B+",
+        "height_cm": 175,
+        "weight_kg": 82,
+        "bmi": 26.78,
+        "medical_condition": "Type 2 Diabetes",
+        "symptoms": [
+            "Frequent urination",
+            "Increased thirst",
+            "Fatigue"
+        ],
+        "allergies": [],
+        "medications": [
+            "Metformin 500mg"
+        ],
+        "blood_pressure": "130/85",
+        "blood_sugar_mg_dl": 185,
+        "heart_rate_bpm": 78
+    },
+
+    "P002": {
+        "name": "Priya Verma",
+        "age": 32,
+        "gender": "Female",
+        "blood_group": "A+",
+        "height_cm": 162,
+        "weight_kg": 58,
+        "bmi": 22.10,
+        "medical_condition": "Iron Deficiency Anemia",
+        "symptoms": [
+            "Weakness",
+            "Dizziness",
+            "Pale skin",
+            "Fatigue"
+        ],
+        "allergies": [
+            "Penicillin"
+        ],
+        "medications": [
+            "Ferrous Sulfate 200mg"
+        ],
+        "blood_pressure": "105/70",
+        "hemoglobin_g_dl": 9.5,
+        "heart_rate_bpm": 88
+    },
+
+    "P003": {
+        "name": "Amit Kumar",
+        "age": 58,
+        "gender": "Male",
+        "blood_group": "O+",
+        "height_cm": 168,
+        "weight_kg": 90,
+        "bmi": 31.89,
+        "medical_condition": "Hypertension",
+        "symptoms": [
+            "Headache",
+            "Occasional dizziness"
+        ],
+        "allergies": [],
+        "medications": [
+            "Amlodipine 5mg"
+        ],
+        "blood_pressure": "155/95",
+        "blood_sugar_mg_dl": 110,
+        "heart_rate_bpm": 82
+    },
+
+    "P004": {
+        "name": "Neha Singh",
+        "age": 27,
+        "gender": "Female",
+        "blood_group": "AB+",
+        "height_cm": 165,
+        "weight_kg": 64,
+        "bmi": 23.51,
+        "medical_condition": "Migraine",
+        "symptoms": [
+            "Severe headache",
+            "Sensitivity to light",
+            "Nausea"
+        ],
+        "allergies": [
+            "Dust"
+        ],
+        "medications": [
+            "Sumatriptan 50mg"
+        ],
+        "blood_pressure": "115/75",
+        "heart_rate_bpm": 72
+    },
+
+    "P005": {
+        "name": "Vikram Mehta",
+        "age": 65,
+        "gender": "Male",
+        "blood_group": "A-",
+        "height_cm": 170,
+        "weight_kg": 76,
+        "bmi": 26.30,
+        "medical_condition": "Coronary Artery Disease",
+        "symptoms": [
+            "Chest pain during physical activity",
+            "Shortness of breath",
+            "Fatigue"
+        ],
+        "allergies": [],
+        "medications": [
+            "Aspirin 75mg",
+            "Atorvastatin 20mg"
+        ],
+        "blood_pressure": "140/90",
+        "cholesterol_mg_dl": 245,
+        "heart_rate_bpm": 85
+    }
+}
